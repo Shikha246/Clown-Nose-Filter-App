@@ -5,7 +5,7 @@
 
 ## Demo
 Check out the live demo here:  
-[Live Demo](https://your-live-link.com)
+[Live Demo](https://shikha246.github.io/Clown-Nose-Filter-App/)
 
 ![Clown Nose Filter](./path-to-image.png)
 
