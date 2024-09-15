@@ -7,7 +7,7 @@
 Check out the live demo here:  
 [Live Demo](https://shikha246.github.io/Clown-Nose-Filter-App/)
 
-![Clown Nose Filter](./path-to-image.png)
+![Clown Nose Filter](images/cn.png)
 
 ## Features
 - Real-time nose detection using the pretrained POSENET model.
